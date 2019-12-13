@@ -1,0 +1,293 @@
+{
+  "keys": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/config/config.default.js",
+  "middleware": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "private": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "stop": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "dev": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "debug": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "cov": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "lint": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "ci": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "autod": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "url": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "logging": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "port": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/zhaoyoulu/Documents/nodelsLearn/learnDemo/egg-example/node_modules/egg/config/config.default.js"
+}
